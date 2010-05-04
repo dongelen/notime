@@ -1,6 +1,6 @@
 = notime
 
-Description goes here.
+Under development right now. Check back again later.
 
 == Note on Patches/Pull Requests
  
